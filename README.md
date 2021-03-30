@@ -1,2 +1,2 @@
 # HPPL_2020
-Homeworks for High Perfomance Python Lab course, Skoltech, 2020, term 2
+Homeworks for "High Perfomance Python Lab" course, Skoltech, 2020, term 2
